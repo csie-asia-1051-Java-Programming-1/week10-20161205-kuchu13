@@ -16,7 +16,7 @@ public class ex03 {
 		String str ="r";
 		int i = 0,val=0;
 		boolean flag=false;
-		while(!(str.equals("N")||(str.equals("n"))){
+		while(!(str.equals("N"))||(str.equals("n"))){
 			System.out.println("input a value:");
 			val= scn.nextInt();
 		

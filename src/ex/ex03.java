@@ -54,7 +54,7 @@ public class ex03 {
 	private static void showListData(ArrayList<Integer> List) {
 		int size = List.size();
 		for (int i = 0; i < size; i++) {
-			System.out.print(List.get(i) + "\t");
+			System.out.println(List.get(i) + "");
 		}
 		System.out.println();
 
